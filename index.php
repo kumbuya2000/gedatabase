@@ -1,7 +1,10 @@
 <html>
-    <?php include "SQLconnect.php" ?>
+    <?php include "sqlconnect.php" ?>
     
     <head><title>Gear Exchange SQL Query</title></head>
+    
+    <body>
+    <?php include "navbar.php" ?>
     
     <?php
     
@@ -19,9 +22,6 @@
             
     ?>
     
-    <body>
-        <?php include "navbar.php" ?>
-        
         
     </body>
 </html>

@@ -1,5 +1,5 @@
-<p>This will be a navigation bar</p>
+<br>
 
-<a href="index.php">Index</a> <a href="inventoryform.php">Inventory Add Form</a>
+<a href="index.php">Index</a> <a href="inventoryform.php">Inventory Add Form</a> <a href="sqlqueryinputform.php">SQL Query Test Input Form</a>
 
 <br>

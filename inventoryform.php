@@ -2,7 +2,7 @@
 <html>
     <body>
         <?php include "navbar.php" ?>
-        <form action="inventoryformsubmit.php">
+        <form action="inventoryformsubmit.php" method="POST">
             First name:
             <input type="text" name="firstname"></input><br>
             Last name:
